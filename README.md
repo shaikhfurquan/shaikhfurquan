@@ -1,7 +1,4 @@
-Share
 
-
-You said:
 ### Hi Developers 👋
 
 I'm
